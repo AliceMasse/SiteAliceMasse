@@ -1,15 +1,38 @@
-# Site Alice Massé
+Étapes du projet:
 
-Bonjour,
+    Choix du business:
+        Les élèves peuvent choisir un business fictif ou réel.
+        Ils doivent identifier les besoins du business et les objectifs du site web.
+    Planification du site web:
+        Les élèves doivent créer une arborescence du site web.
+        Ils doivent identifier les pages et les contenus qui seront présents sur le site web.
+    Création du site web:
+        Les élèves doivent choisir un outil de création de site web.
+        Ils doivent créer le site web en respectant les besoins du business et les objectifs du site web.
+    Test et validation du site web:
+        Les élèves doivent tester le site web sur différents navigateurs et appareils.
+        Ils doivent corriger les erreurs et apporter les améliorations nécessaires.
+    Présentation du site web:
+        Les élèves doivent présenter leur site web à la classe.
+        Ils doivent expliquer les choix qu'ils ont faits et les fonctionnalités du site web.
 
-Mon site web a pour but de proposer aux cavaliers professionels ou particuliers du coaching / des stages / des préparations aux concours et/ou des * *débourrages*
+Critères d'évaluation:
 
-Pour ce faire, j'ai coder un site tout à fait classique avec en premier lieu un menu ouvrable à gauche, une photo de profil avec les bords arrondis (la rendre ronde est possible, cependant, cela déforme l'image).
+    Pertinence du site web par rapport aux besoins du business
+    Qualité du design et de l'ergonomie du site web
+    Fonctionnalité du site web
+    Respect des objectifs du site web
+    Qualité de la présentation
 
-En second lieu, une petite phrase de présentation puis un carroussel à défilement automatique fait à l'aide de boostrap puis 2 photos et 4 vidéos montrant mes compétences à cheval afin de donner confiance aux potentiels élèves qui souhaiteraient profiter de mes services.
+Ressources:
 
-Et en dernier lieu, le formulaire de contact qui a pour particularité d'avoir un choix prédéfini concernant l'objet de la prise de contact pour simplifier la communication.
+    Tutoriels de création de site web: https://www.w3schools.com/html/
+    Outils de création de site web: [URL non valide supprimée]
+    Exemples de sites web pour business: https://www.awwwards.com/
 
+Conseils:
 
-
-* *Le débourrage est le prémisse du dressage du cheval. Une fois débourré, il faudra ensuite lui apprendre toutes les aides de base du travail monté afin de permettre à son cavalier de le diriger, de l’arrêter et de contrôler son allure. Et ce, de plus en plus finement*
+    Commencez par bien définir les besoins du business et les objectifs du site web.
+    Utilisez un outil de création de site web facile à utiliser.
+    Testez régulièrement votre site web sur différents navigateurs et appareils.
+    N'hésitez pas à demander de l'aide à votre professeur ou à vos camarades.
